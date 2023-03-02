@@ -1,4 +1,4 @@
-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
+
 
 工作区，暂存区，本地库，远程仓库。
 添加到暂存区可以删除，一旦提交版本无法删除。
@@ -83,75 +83,38 @@ collaborate (see also: git help workflows)
    pull              Fetch from and integrate with another repository or a local branch
    push              Update remote refs along with associated objects
 
-
-
 以下是在各种情况下使用的常见Git命令：
 
-
-
 启动工作区（另请参阅：git帮助教程）
-
 clone将存储库克隆到新目录
-
 init创建一个空的Git存储库或重新初始化现有存储库
 
-
-
 处理当前更改（另请参阅：git help daily）
-
 add将文件内容添加到索引
-
 mv移动或重命名文件、目录或符号链接
-
 还原还原工作树文件
-
 rm从工作树和索引中删除文件
-
 稀疏签出初始化和修改稀疏签出
 
-
-
 检查历史记录和状态（另请参阅：git帮助修订版）
-
 使用二进制搜索查找引入错误的提交
-
 diff显示提交、提交和工作树等之间的更改
-
 grep打印与图案匹配的线条
-
 log显示提交日志
-
 show显示各种类型的对象
-
 status显示工作树状态
 
-
-
 成长、标记和调整你的共同历史
-
 分支列出、创建或删除分支
 
 将记录更改提交到存储库
-
 合并合并两个或多个开发历史
-
 rebase在另一个基本提示上重新应用提交
-
 重置将当前HEAD重置为指定状态
-
 交换机交换机分支
-
 标记创建、列出、删除或验证用GPG签名的标记对象
 
-
-
 协作（另请参见：git帮助工作流）
-
 fetch从另一个存储库下载对象和引用
-
 从另一个存储库或本地分支提取并与之集成
-
 推送更新远程引用以及相关对象
-
-
-
