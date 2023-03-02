@@ -83,10 +83,7 @@ collaborate (see also: git help workflows)
    pull              Fetch from and integrate with another repository or a local branch
    push              Update remote refs along with associated objects
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system
+
 
 以下是在各种情况下使用的常见Git命令：
 
@@ -158,10 +155,3 @@ fetch从另一个存储库下载对象和引用
 
 
 
-“githelp-a”和“githelp-g”列出了可用的子命令和一些
-
-概念指南。请参阅“git-help<command>”或“git-hhelp<concept>”
-
-阅读特定的子命令或概念。
-
-有关系统概述，请参阅“git-help-git”
